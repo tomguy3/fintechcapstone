@@ -1,1 +1,1 @@
-# Artist/Record Label Smargt Contract
+# Artist/Record Label Smart Contract
