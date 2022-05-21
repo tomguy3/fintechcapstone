@@ -1,5 +1,10 @@
 # Artist/Record Label Smart Contract
+
+## Overview
 Smart contract for record company and artist agreements. The contract will hold funds in a vested wallet, supplied by the record company that will be released upon conditions met by the artist and label. The funds in question will be Ether, the native cryptocurrency on the Ethereum platform. This is meant to be looked at as an investment vehicle for the artist and can be the main or a side contract during negotiations. This will allow the artist to have access to investment vehicles from the beginning of their career. Due to the volatility of cryptocurrencies, this could allow the artist to have value of their funds appreciate or depreciate. It is a more risky financial contract than dealing with fiat currency but with the surge in interest in cryptocurrencies, alternative must arise to meet the demand. The security comes from the nature of immutability in smart contract. Neither party can change nor renegotiate the terms post execution. The contract also offers a layer of transparency giving all parties an understanding of the risks and benefits. At all times the terms and conditions will be available to parties and the artist will be able to see the exact payout that they are entitled too.
+
+## Contract Structure
+
 The contract terms will be determined prior to being executed. Our role comes in by offering the investment vehicle into the contract for the artist. 
 We want to ensure protection for each artist/label involved by offering an agreed percentages payout. For example, Drake, Kanye, Jack Harlow, and Kendrick created a song and their percentages for the body of work was an equal split of 25%. If multiple artist were involved in a project, this smart contract would a) protect all parties involved, b) pay artists, producers, and labels 
 
