@@ -22,6 +22,6 @@ Our goal is to protect both parties.
 Solidity to create the vesting wallet.
 Compiled the vesting wallet with Solc to use in Python.
 Used Web3 to deploy the vesting wallet's ABI and bytecode to make transactions with Ganache.
-Build, signed, and send the transaction from the vesting wallet to the beneficiary within Python.
+Build, sign, and sent the transaction from the vesting wallet to the beneficiary within Python.
 Provided an interface to send transactions via Streamlit.
 
