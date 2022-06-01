@@ -13,15 +13,20 @@ For example, Drake, Kanye West, Jack Harlow, and Kendrick Lamar created a song, 
   (b) Will protect all parties involved, and each artist will receive the correct amount of the split.
   (c) Allow each artist to have access to funds via Ether.
 
-However, due to our observation of historical problems within the market, we aim to provide an inherent support structure that requires fair treatment of both parties and circumvent these historical issues. For example, artists can be dropped from label deals due to underperformance of an album, falling short of deadlines due to factors out of their control, or blatant breach of contract by the record label. On the flip side, we do not wish to see the record label financially harmed by an artist simply not meeting their contract terms on purpose or by negligence.  
+However, due to our observation of historical problems within the market, we aim to provide an inherent support structure that requires fair treatment of both parties and circumvent these historical issues. For example, artists can be dropped from label deals due to underperformance of an album, falling short of deadlines due to factors out of their control, or blatant breach of contract by the record label. On the flip side, we do not wish to see the record label financially harmed by an artist simply not meeting their contract terms on purpose or by negligence. 
+
 Therefore, our contracts WILL NOT allow obscure circumstances to put the artist out of our smart contract, or the company to be required to pay out funds to a non-cooperative artist. Our unique conditional logic within the contract does not allow ad hoc dropping of an artist. It also does not allow an artist to be paid unless they meet their deadlines and/or surpass a specified expiration date for not trying. 
 Our goal is to protect both parties. 
 
 ## Installation Guide
 
 Solidity to create the vesting wallet.
+
 Compiled the vesting wallet with Solc to use in Python.
+
 Used Web3 to deploy the vesting wallet's ABI and bytecode to make transactions with Ganache.
+
 Build, sign, and sent the transaction from the vesting wallet to the beneficiary within Python.
+
 Provided an interface to send transactions via Streamlit.
 
