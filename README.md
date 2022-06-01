@@ -1,6 +1,6 @@
 # Artist/Record Label Smart Contract
 
-![Source:(https://indiemusicbus.com/how-to-spot-a-bogus-record-deal/)](bogus.jpg)
+![Source:(https://indiemusicbus.com/how-to-spot-a-bogus-record-deal/)](bogus.jpeg)
 
 ## Overview
 
