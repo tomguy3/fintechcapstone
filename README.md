@@ -1,5 +1,7 @@
 # Artist/Record Label Smart Contract
 
+![terminator](Images/download.jpg)
+
 ## Overview
 
 We created a smart contract to establish trust and clarity with the agreements between record companies and artists. The contract will hold predetermined funds in a vested wallet, supplied by the record company, released upon conditions met by the artist and the label. The funds in question will be Ether, the native cryptocurrency on the Ethereum platform. The vested wallet is an investment vehicle for the artist and has the option to be the main or a side contract during negotiations. This smart contract will permit the artist to access investment vehicles from the beginning of their career. The volatility of cryptocurrencies could allow the artist to have the value of their funds appreciate or depreciate. It is a more risky financial contract than dealing with fiat currency, but with the surge in interest in cryptocurrencies, an alternative must arise to meet the demand. The security comes from the nature of immutability in the smart contract. Neither party can change nor renegotiate the terms post-execution. Also, the contract offers a layer of transparency by giving all parties an understanding of the risks and benefits. At all times, the terms and conditions will be available to parties, and the artist will be able to see the exact payout they are entitled too.
